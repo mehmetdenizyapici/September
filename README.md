@@ -7,9 +7,9 @@
 ***
 September is a software that helps you to create your very own virtual assistant.
 ### Screenshot
-![Screen Shot - 1](https://github.com/Qrn3/September/blob/main/Screen%20Shoots/screenshoot%20(1).png)
-![Screen Shot - 2](https://github.com/Qrn3/September/blob/main/Screen%20Shoots/screenshoot%20(2).png)
-![Screen Shot - 3](https://github.com/Qrn3/September/blob/main/Screen%20Shoots/screenshoot%20(3).png)
+![Screen Shot - 1](https://github.com/mehmetdenizyapici/September/blob/main/Screen%20Shoots/screenshoot%20(1).png)
+![Screen Shot - 2](https://github.com/mehmetdenizyapici/September/blob/main/Screen%20Shoots/screenshoot%20(2).png)
+![Screen Shot - 3](https://github.com/mehmetdenizyapici/September/blob/main/Screen%20Shoots/screenshoot%20(3).png)
 ## Technologies
 ***
 A list of technologies used within the project:
