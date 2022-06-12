@@ -44,4 +44,4 @@ Not exactly, these assistants have less functionality and chat-ability than siri
 2. **Why do I keep getting a pyaudio error**
 because PyAudio has one of the worst download systems ever created. To solve the problem, you need to download and install the whell file from [this](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio) link
 3. **Why is it slow?**
-Basitçe anlatmak gerekirse her programı başlattığınızda programın kendisini yeniden eğitmesinden dolayı başlama aşaması normalden yavaş gerçekleşiyor. Fakat kullanırken gösterdiği yavaşlık tamamen sizinsisteminizle alakalı. 
+Simply put, every time you start a program, the startup phase is slower than normal because the program retrains itself. But the slowness it shows while using it is completely related to your system. 
