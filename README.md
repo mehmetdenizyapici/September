@@ -34,7 +34,6 @@ After downloading all required modules and installing pyaudio
 ```
 $ git clone https://github.com/Qrn3/September.git
 $ cd September
-$ pip install -r requirements.txt
 $ python3 september.py
 ```
 ## FAQs
